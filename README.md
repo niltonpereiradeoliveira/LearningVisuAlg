@@ -1,2 +1,3 @@
 # LearningVisuAlg
- Aprendendo os primeiros códigos
+ Aprendendo os primeiros códigos.
+ Meus primeiros commits.
