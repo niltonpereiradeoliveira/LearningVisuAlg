@@ -10,7 +10,12 @@ Var
   sair : inteiro;
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+   Escreval("======================================")
+   Escreval("Cáculo das Notas para o semetre 2021.1")
+   Escreval("======================================")
+   Escreval("")
    repita
+      Escreval("")
       Escreva("Digita a  nota da AOL1: ")
       Leia(aol1)
       Escreva("Digita a  nota da AOL2: ")
@@ -73,6 +78,8 @@ Inicio
       Escreval("Sua média na AV2 é: ", mav2:2:2)
       Escreval("Sua média na AV1 + AV2 é: ", mav1av2:2:2)
       Escreva("Para encerrar a consulta, digite 9 (nove): ")
+         Escreva("")
       Leia(sair)
    ate sair = 9
+
 Fimalgoritmo
