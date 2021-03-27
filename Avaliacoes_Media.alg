@@ -33,7 +33,7 @@ Inicio
       Leia(av2)
       mav2 <- (av2)*(0.6)
       mav1av2 <- mav1+mav2
-        Se (mav1av2 > 7) entao
+        Se (mav1av2 = 7) ou (mav1av2 > 7) entao
            Escreval("")
            Escreval("==================")
            Escreval("Você foi APROVADO!")
